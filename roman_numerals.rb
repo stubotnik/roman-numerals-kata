@@ -8,6 +8,7 @@ class RomanNumeralsConverter
         {:dec => 10, :rom => 'X'}, 
         {:dec => 50, :rom => 'L'}, 
         {:dec => 100, :rom => 'C'}, 
+        {:dec => 500, :rom => 'D'},
         {:dec => 1000, :rom => 'M'}
       ]
 
